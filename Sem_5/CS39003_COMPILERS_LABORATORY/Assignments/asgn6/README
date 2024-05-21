@@ -1,0 +1,10 @@
+To run the tests run the following command:
+    `make test`
+
+To clean the object files and compiled binaries run:
+    `make clean`
+
+Individual test binaries can be run as ./test<num> after running `make test`
+
+Assembly files are present in the `asms` folder
+TACs are present in `tacs` folder

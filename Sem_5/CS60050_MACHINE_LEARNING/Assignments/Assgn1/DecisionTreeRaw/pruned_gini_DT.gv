@@ -1,0 +1,143 @@
+digraph "Decision Tree" {
+	node [shape=rectangle]
+	"ID 1
+Glucose <= 122.5
+" -> "ID 2
+Age <= 26.5
+" [label=True]
+	"ID 1
+Glucose <= 122.5
+" -> "ID 33
+Glucose <= 155.5
+" [label=False]
+	"ID 2
+Age <= 26.5
+" -> "ID 3,
+Classification -> 0.0
+" [label=True]
+	"ID 2
+Age <= 26.5
+" -> "ID 14
+BMI <= 26.35
+" [label=False]
+	"ID 33
+Glucose <= 155.5
+" -> "ID 34
+BMI <= 41.7
+" [label=True]
+	"ID 33
+Glucose <= 155.5
+" -> "ID 59,
+Classification -> 1.0
+" [label=False]
+	"ID 14
+BMI <= 26.35
+" -> "ID 15,
+Classification -> 0.0
+" [label=True]
+	"ID 14
+BMI <= 26.35
+" -> "ID 16
+DiabetesPedigreeFunction <= 0.6355
+" [label=False]
+	"ID 34
+BMI <= 41.7
+" -> "ID 35
+BMI <= 26.75
+" [label=True]
+	"ID 34
+BMI <= 41.7
+" -> "ID 57,
+Classification -> 1.0
+" [label=False]
+	"ID 16
+DiabetesPedigreeFunction <= 0.6355
+" -> "ID 17,
+Classification -> 0.0
+" [label=True]
+	"ID 16
+DiabetesPedigreeFunction <= 0.6355
+" -> "ID 26
+Pregnancies <= 6.5
+" [label=False]
+	"ID 35
+BMI <= 26.75
+" -> "ID 36,
+Classification -> 0.0
+" [label=True]
+	"ID 35
+BMI <= 26.75
+" -> "ID 40
+Age <= 41.5
+" [label=False]
+	"ID 26
+Pregnancies <= 6.5
+" -> "ID 27,
+Classification -> 0.0
+" [label=True]
+	"ID 26
+Pregnancies <= 6.5
+" -> "ID 64,
+Classification -> 1.0
+" [label=False]
+	"ID 40
+Age <= 41.5
+" -> "ID 41
+DiabetesPedigreeFunction <= 0.8925000000000001
+" [label=True]
+	"ID 40
+Age <= 41.5
+" -> "ID 51,
+Classification -> 1.0
+" [label=False]
+	"ID 41
+DiabetesPedigreeFunction <= 0.8925000000000001
+" -> "ID 42
+BloodPressure <= 73.0
+" [label=True]
+	"ID 41
+DiabetesPedigreeFunction <= 0.8925000000000001
+" -> "ID 50,
+Classification -> 1.0
+" [label=False]
+	"ID 42
+BloodPressure <= 73.0
+" -> "ID 43
+Age <= 22.5
+" [label=True]
+	"ID 42
+BloodPressure <= 73.0
+" -> "ID 47,
+Classification -> 0.0
+" [label=False]
+	"ID 43
+Age <= 22.5
+" -> "ID 81,
+Classification -> 0.0
+" [label=True]
+	"ID 43
+Age <= 22.5
+" -> "ID 44
+Insulin <= 47.0
+" [label=False]
+	"ID 44
+Insulin <= 47.0
+" -> "ID 45,
+Classification -> 1.0
+" [label=True]
+	"ID 44
+Insulin <= 47.0
+" -> "ID 46
+Age <= 30.5
+" [label=False]
+	"ID 46
+Age <= 30.5
+" -> "ID 87,
+Classification -> 1.0
+" [label=True]
+	"ID 46
+Age <= 30.5
+" -> "ID 88,
+Classification -> 0.0
+" [label=False]
+}

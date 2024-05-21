@@ -1,0 +1,69 @@
+Iteration 1: j_clust = 48.670475426752816
+Iteration 2: j_clust = 42.676007383119284
+Iteration 3: j_clust = 40.48432952575332
+Iteration 4: j_clust = 39.23117197748553
+Iteration 5: j_clust = 38.60617259878706
+Iteration 6: j_clust = 38.300439553690964
+Iteration 7: j_clust = 37.97430923308485
+Iteration 8: j_clust = 37.532850101823804
+Iteration 9: j_clust = 37.3833741028947
+Iteration 10: j_clust = 37.20230747413354
+Iteration 11: j_clust = 37.065342320359456
+Iteration 12: j_clust = 36.92849902343827
+Iteration 13: j_clust = 36.79173996893644
+Iteration 14: j_clust = 36.66079058936074
+Iteration 15: j_clust = 36.51961895905018
+Iteration 16: j_clust = 36.44433407254712
+Iteration 17: j_clust = 36.39349654721075
+Iteration 18: j_clust = 36.36014328486288
+Iteration 19: j_clust = 36.32849920767752
+Iteration 20: j_clust = 36.31255428506516
+Iteration 21: j_clust = 36.30574198047523
+Iteration 22: j_clust = 36.300312013288945
+Iteration 23: j_clust = 36.28835826035869
+Iteration 24: j_clust = 36.27328239296912
+Iteration 25: j_clust = 36.25355019461554
+Iteration 26: j_clust = 36.23544294624844
+Iteration 27: j_clust = 36.22634535903587
+Iteration 28: j_clust = 36.217737584989955
+Iteration 29: j_clust = 36.20110790882475
+Iteration 30: j_clust = 36.18376955604477
+Iteration 31: j_clust = 36.164014751036014
+Iteration 32: j_clust = 36.14954052393891
+Iteration 33: j_clust = 36.14145438668425
+Iteration 34: j_clust = 36.137278618257085
+Iteration 35: j_clust = 36.13075196777995
+Iteration 36: j_clust = 36.124340446868445
+Iteration 37: j_clust = 36.121813142016535
+Iteration 38: j_clust = 36.1165685675666
+Iteration 39: j_clust = 36.079475986738935
+Iteration 40: j_clust = 35.893621669185954
+Iteration 41: j_clust = 35.81694761461682
+Iteration 42: j_clust = 35.785811667724865
+Iteration 43: j_clust = 35.7706931231787
+Iteration 44: j_clust = 35.75990408991322
+Iteration 45: j_clust = 35.757432201384
+Iteration 46: j_clust = 35.752936092375414
+Iteration 47: j_clust = 35.75173676812467
+Iteration 48: j_clust = 35.75173676812467
+Converged after 48 iterations.
+Accuracy is: 0.6
+
+Min J_clust = 35.88472834778296 for k = 17
+k = 5, J_clust = 43.802450387941015
+k = 6, J_clust = 43.595079886232554
+k = 7, J_clust = 41.58166536549617
+k = 8, J_clust = 41.099918447969294
+k = 9, J_clust = 40.82609244129326
+k = 10, J_clust = 39.3276166827809
+k = 11, J_clust = 38.95324663181483
+k = 12, J_clust = 38.9330958354011
+k = 13, J_clust = 37.81671033540342
+k = 14, J_clust = 37.31486250752685
+k = 15, J_clust = 38.386742913843705
+k = 16, J_clust = 36.72514555912689
+k = 17, J_clust = 35.88472834778296
+k = 18, J_clust = 37.35899180521812
+k = 19, J_clust = 37.8140183208526
+k = 20, J_clust = 36.83572862223984
+

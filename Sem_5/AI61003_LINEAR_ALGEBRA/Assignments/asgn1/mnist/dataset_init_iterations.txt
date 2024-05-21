@@ -1,0 +1,36 @@
+Iteration 1: j_clust = 6.13730142012653
+Iteration 2: j_clust = 5.956830009780887
+Iteration 3: j_clust = 5.88510195148234
+Iteration 4: j_clust = 5.848818198392239
+Iteration 5: j_clust = 5.8309960114064046
+Iteration 6: j_clust = 5.821916884951348
+Iteration 7: j_clust = 5.816433179000406
+Iteration 8: j_clust = 5.81221450724309
+Iteration 9: j_clust = 5.809890656131128
+Iteration 10: j_clust = 5.807452932119668
+Iteration 11: j_clust = 5.806428964858
+Iteration 12: j_clust = 5.805688879639889
+Iteration 13: j_clust = 5.8054517095425195
+Iteration 14: j_clust = 5.8054517095425195
+Converged after 14 iterations.
+Accuracy is: 0.66
+
+
+Min J_clust = 5.792498233512982 for k = 19
+k = 5, J_clust = 6.531842046006368
+k = 6, J_clust = 6.414195472955061
+k = 7, J_clust = 6.303658221293824
+k = 8, J_clust = 6.235390520061052
+k = 9, J_clust = 6.19109727246305
+k = 10, J_clust = 6.145000664027275
+k = 11, J_clust = 6.084496988613951
+k = 12, J_clust = 6.05367156363836
+k = 13, J_clust = 6.035174341255645
+k = 14, J_clust = 5.983101122317329
+k = 15, J_clust = 5.951597538991553
+k = 16, J_clust = 5.901282207175078
+k = 17, J_clust = 5.926704705460701
+k = 18, J_clust = 5.8278369627563045
+k = 19, J_clust = 5.792498233512982
+k = 20, J_clust = 5.8105121513996165
+
